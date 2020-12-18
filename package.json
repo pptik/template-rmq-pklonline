@@ -1,0 +1,15 @@
+{
+  "name": "template-rabbitmq",
+  "version": "1.0.0",
+  "description": "Template-RabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rifqirizairfansyah",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "dotenv": "^8.2.0"
+  }
+}
