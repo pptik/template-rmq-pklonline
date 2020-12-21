@@ -10,9 +10,32 @@ RabbitMQ Template NodeJS
 ## Installation
 
 Step 1:
-
+Install module
 ```sh
 npm install
+```
+
+Step 2:
+Edit .env file
+```sh
+RMQ_USER=
+RMQ_PASS=
+RMQ_HOST=
+RMQ_PORT=
+RMQ_VHOST=
+```
+Step 3:
+Run Project
+
+Node:
+```sh
+node app
+```
+Or
+
+Nodemon:
+```sh
+nodemon app
 ```
 ## Development Module
 
